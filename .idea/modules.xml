@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../episodic-lifelong-learning-master/episodic-lifelong-learning-master/.idea/episodic-lifelong-learning-master.iml" filepath="$PROJECT_DIR$/../../episodic-lifelong-learning-master/episodic-lifelong-learning-master/.idea/episodic-lifelong-learning-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/online-continual-learning-main.iml" filepath="$PROJECT_DIR$/.idea/online-continual-learning-main.iml" />
+    </modules>
+  </component>
+</project>
