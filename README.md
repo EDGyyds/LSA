@@ -76,6 +76,8 @@ python general_main.py --data cifar10 --cl_type nc --agent GDUMB --mem_size 500 
 #AGEM
 python general_main.py --data cifar10 --cl_type nc --agent AGEM --retrieve random --update random --mem_size 500 --test_batch 10 --fix_order True
 ```
+#Online-MAS:
+python general_main.py --data cifar10 --cl_type nc --agent OMAS --retrieve random --update random --mem_size 500 --test_batch 10 --fix_order True
 
 ### Our LSA
 ```shell
